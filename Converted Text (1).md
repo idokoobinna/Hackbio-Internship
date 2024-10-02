@@ -1,4 +1,4 @@
-Stage 2 tasks;
+Stage 1 tasks;
 Molecular Docking in Drug Discovery 
 
 Introduction
