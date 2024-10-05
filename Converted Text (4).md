@@ -1,3 +1,4 @@
+![IMG_202410279_233024449](https://github.com/user-attachments/assets/69f7416f-eb13-43a2-b45b-bac32a390433)
 STAGE 3 PHASE 1 TASK
 
 Contributors: Pranjal Paul, Natasha Murape, Oluchi Onyemeh,  Evans Boakye , Idoko obinna
@@ -21,6 +22,7 @@ Methodology 
 Protein Selection
 
 An advanced search for a prognostic lung cancer with unfavorable prognosis query was conducted by accessing the human proteome database (https\://www\.proteinatlas.org/ ). Using the ‘Fields’ function, a prognostic cancer was selected under ‘Field’ section, lung cancer was then selected under the cancer section and finally, unfavorable prognosis was selected under the prognosis option. All these queries were added and searched for. The CDC42 binding protein kinase beta (potential drug target) with gene name CDC42BP (KIAA1124, MRCKB) was selected. The structural information of the selected protein was accessed on Uniprot. The PDB structure of the protein with a PDB ID: 5OTE (Figure 1) and a resolution of 1.65 A was downloaded and further processed and docked with the secondary metabolites in Azadirachta Indica. 
+![IMG_202410279_233024449](https://github.com/user-attachments/assets/c238a4f9-548e-4276-810e-c91eaa4caa4e)
 
 Figure 1. Crystal structure of MRCKβ (PDB ID: 5OTE)
 
